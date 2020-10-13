@@ -8,5 +8,16 @@
 
 **Link to work:** [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 
+### Day 2: October 12, 2020 
+
+**Today's Progress**: Didn't get to code much today since I had to work late.
+
+**Thoughts:** However, I was able to study and learn a few new things.
+              For example, I learned a bit more in C++ about arrays and the "range-based for loop" that iterates once for each element in an array. 
+              I was able to test a small example through an online C++ compiler.
+              The sytax: for (dataType rangeVariable : array)
+                             statement;
+              I also reviewed some more things about Python and continued my Python Udemy course.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
