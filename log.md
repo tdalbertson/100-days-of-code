@@ -27,7 +27,7 @@
 
 **Thoughts:**: Continued learning more about C++ arrays, especially that there aren't predefined checks in accessing memory outside of that set for arrays. I also decided to learn about Pygame. Starting a tutorial to recreate flappy bird using Pygame.
 
-### Day 3: October 14, 2020 
+### Day 4: October 14, 2020 
 
 **Today's Progress**: More studying C++ and Python as well as dabbling in Pygame
 
