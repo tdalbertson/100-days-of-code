@@ -27,5 +27,12 @@
 
 **Thoughts:**: Continued learning more about C++ arrays, especially that there aren't predefined checks in accessing memory outside of that set for arrays. I also decided to learn about Pygame. Starting a tutorial to recreate flappy bird using Pygame.
 
+### Day 3: October 14, 2020 
+
+**Today's Progress**: More studying C++ and Python as well as dabbling in Pygame
+
+**Thoughts:**: Continued learning more about C++ and Python. Learned some cool ways of accessing dictionary keys and values as well as tuple elements within a list using for loops and unpacking. Also decided to dabble in pygame a bit - had to figure out how to install it on my mac since the usual pip install command wasn't working. Also helped out a friend with their own pygame code since they were having issues.
+
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
