@@ -33,6 +33,14 @@
 
 **Thoughts:**: Continued learning more about C++ and Python. Learned some cool ways of accessing dictionary keys and values as well as tuple elements within a list using for loops and unpacking. Also decided to dabble in pygame a bit - had to figure out how to install it on my mac since the usual pip install command wasn't working. Also helped out a friend with their own pygame code since they were having issues.
 
+### Day 5: October 15, 2020 
+
+**Today's Progress**: Focused mainly on Python today
+
+**Thoughts:**: Python continues to capture my attention - I don't know what it is exactly. I worked more with Pygame and created a repo for Flappy Bird in Python. Side note, it's crazy that the original game was released 7 years ago! I also learned about the enumerate and zip functions, as well as some methods from the rand module. I also read a bit more about C++ and hope to start building a project soon!
+
+**Link to work:** [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
 
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
+2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
