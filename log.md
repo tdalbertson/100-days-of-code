@@ -25,19 +25,19 @@
 
 **Today's Progress**: Learned more about C++ and Python
 
-**Thoughts:**: Continued learning more about C++ arrays, especially that there aren't predefined checks in accessing memory outside of that set for arrays. I also decided to learn about Pygame. Starting a tutorial to recreate flappy bird using Pygame.
+**Thoughts:** Continued learning more about C++ arrays, especially that there aren't predefined checks in accessing memory outside of that set for arrays. I also decided to learn about Pygame. Starting a tutorial to recreate flappy bird using Pygame.
 
 ### Day 4: October 14, 2020 
 
 **Today's Progress**: More studying C++ and Python as well as dabbling in Pygame
 
-**Thoughts:**: Continued learning more about C++ and Python. Learned some cool ways of accessing dictionary keys and values as well as tuple elements within a list using for loops and unpacking. Also decided to dabble in pygame a bit - had to figure out how to install it on my mac since the usual pip install command wasn't working. Also helped out a friend with their own pygame code since they were having issues.
+**Thoughts:** Continued learning more about C++ and Python. Learned some cool ways of accessing dictionary keys and values as well as tuple elements within a list using for loops and unpacking. Also decided to dabble in pygame a bit - had to figure out how to install it on my mac since the usual pip install command wasn't working. Also helped out a friend with their own pygame code since they were having issues.
 
 ### Day 5: October 15, 2020 
 
 **Today's Progress**: Focused mainly on Python today
 
-**Thoughts:**: Python continues to capture my attention - I don't know what it is exactly. I worked more with Pygame and created a repo for Flappy Bird in Python. Side note, it's crazy that the original game was released 7 years ago! I also learned about the enumerate and zip functions, as well as some methods from the rand module. I also read a bit more about C++ and hope to start building a project soon!
+**Thoughts:** Python continues to capture my attention - I don't know what it is exactly. I worked more with Pygame and created a repo for Flappy Bird in Python. Side note, it's crazy that the original game was released 7 years ago! I also learned about the enumerate and zip functions, as well as some methods from the rand module. I also read a bit more about C++ and hope to start building a project soon!
 
 **Link to work:** [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
 
