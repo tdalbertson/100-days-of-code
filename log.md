@@ -47,6 +47,12 @@
 
 **Thoughts:** Studied more Python and completed the Python Statements challenge in the Python Udemy course I've been following. List comprehension and flattened for loops are so interesting - I hope I can implement them more in my own code. I also worked a bit more on my Flappy Bird Python clone.
 
+### Day 7: October 17, 2020 
+
+**Today's Progress**: C++ Focus
+
+**Thoughts:** Focused completely on C++ today and learned more about arrays, accessing array data using for loops, learning about multi-dimensional arrays, and vectors. Multi-dimensional arrays are really interesting but took me a bit more time to understand. I'll be working on the next coding lab for my C++ class and upload it soon.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
