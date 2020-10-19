@@ -53,6 +53,12 @@
 
 **Thoughts:** Focused completely on C++ today and learned more about arrays, accessing array data using for loops, learning about multi-dimensional arrays, and vectors. Multi-dimensional arrays are really interesting but took me a bit more time to understand. I'll be working on the next coding lab for my C++ class and upload it soon.
 
+### Day 8: October 18, 2020 
+
+**Today's Progress**: More C++
+
+**Thoughts:** Finished my reading about arrays and vectors in C++. Multi-dimensional arrays still intimidate me so I'll need to do some more studying on them. I also aim to start looking at some frameworks for C++ to start doing more projects outside of the class for school. On a side note, I also added a scrolling floor to the Python Flappy Bird game.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
