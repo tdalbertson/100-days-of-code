@@ -59,6 +59,12 @@
 
 **Thoughts:** Finished my reading about arrays and vectors in C++. Multi-dimensional arrays still intimidate me so I'll need to do some more studying on them. I also aim to start looking at some frameworks for C++ to start doing more projects outside of the class for school. On a side note, I also added a scrolling floor to the Python Flappy Bird game.
 
+### Day 9: October 19, 2020 
+
+**Today's Progress**: APIs
+
+**Thoughts:** Found an interesting beginner video course to APIs and started watching it today. Didn't actually code with any APIs but glad to know more about what they are and what they do. Worked on my lab assignemnt for my C++ class. The lab doesn't seem too difficult, it's just requires using arrays which is something I'm not 100% comfortable with yet.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
