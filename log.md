@@ -71,6 +71,9 @@
 
 **Thoughts:** Worked solely on my C++ assignment. Been running into various syntax and logical errors when using arrays and vectors. Despite this, I'm close to finishing this assignment. I plan on finishing this assignment tomorrow.
 
+**Link to work:** [C++ Lab 7](https://github.com/tdalbertson/CISP360repository/blob/master/Lab7.cpp)
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
+3. [C++ Lab 7](https://github.com/tdalbertson/CISP360repository/blob/master/Lab7.cpp)
