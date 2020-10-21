@@ -65,6 +65,12 @@
 
 **Thoughts:** Found an interesting beginner video course to APIs and started watching it today. Didn't actually code with any APIs but glad to know more about what they are and what they do. Worked on my lab assignemnt for my C++ class. The lab doesn't seem too difficult, it's just requires using arrays which is something I'm not 100% comfortable with yet.
 
+### Day 10: October 20, 2020 
+
+**Today's Progress**: Arrays and vectors
+
+**Thoughts:** Worked solely on my C++ assignment. Been running into various syntax and logical errors when using arrays and vectors. Despite this, I'm close to finishing this assignment. I plan on finishing this assignment tomorrow.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
