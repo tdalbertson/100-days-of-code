@@ -73,6 +73,14 @@
 
 **Link to work:** [C++ Lab 7](https://github.com/tdalbertson/CISP360repository/blob/master/Lab7.cpp)
 
+### Day 11 & 12: October 21 & 22, 2020 
+
+**Today's Progress**: Stuck on assignment
+
+**Thoughts:** Continued working on my assignment for my C++ class. I've been stuck trying to get my program to display certain things correctly and haven't figured it out yet. I'll just keep at it.
+
+**Link to work:** [C++ Lab 7](https://github.com/tdalbertson/CISP360repository/blob/master/Lab7.cpp)
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
