@@ -81,6 +81,14 @@
 
 **Link to work:** [C++ Lab 7](https://github.com/tdalbertson/CISP360repository/blob/master/Lab7.cpp)
 
+### Day 13: October 23, 20202
+
+**Today's Progress**: Finished program!
+
+**Thoughts:** I FINALLY figured out the bugs in my C++ class assignment and turned it in. It felt so rewarding figuring out the issues and having the program work correctly. This is the kind of stuff I really love about programming. I also studied a bit on sorting algorithms and a little bit of Python.
+
+**Link to work:** [C++ Lab 7](https://github.com/tdalbertson/CISP360repository/blob/master/Lab7.cpp)
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
