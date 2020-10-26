@@ -89,6 +89,12 @@
 
 **Link to work:** [C++ Lab 7](https://github.com/tdalbertson/CISP360repository/blob/master/Lab7.cpp)
 
+### Day 14 & 15: October 24 & 25, 2020 
+
+**Today's Progress**: Algorithms
+
+**Thoughts:** Been studying about different searching and sorting algorithms and big O notation (still don't fully understand it). I've been watching a lot of videos on each of these algorithms to fully get them down. I still need to finish reading this chapter to test my understanding then start on the coding assignment. 
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
