@@ -95,6 +95,12 @@
 
 **Thoughts:** Been studying about different searching and sorting algorithms and big O notation (still don't fully understand it). I've been watching a lot of videos on each of these algorithms to fully get them down. I still need to finish reading this chapter to test my understanding then start on the coding assignment. 
 
+### Day 16: October 26, 2020 
+
+**Today's Progress**: More Algorithms!
+
+**Thoughts:** Continuing to study search and sort functions. They way they work is really interesting to me, but I still don't know how to directly apply them in code. I'll continue to study these more in depth.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
