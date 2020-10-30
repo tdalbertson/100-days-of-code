@@ -101,6 +101,12 @@
 
 **Thoughts:** Continuing to study search and sort functions. They way they work is really interesting to me, but I still don't know how to directly apply them in code. I'll continue to study these more in depth.
 
+### Day 17: October 29, 2020
+
+**Today's Progress**: C++ Lab
+
+**Thoughts** Finally completed the C++ Lab on algorithms. Although I understand the logic I can't code the algorithms from memory. I'll work on Python stuff tomorrow.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
