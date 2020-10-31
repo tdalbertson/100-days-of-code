@@ -107,6 +107,12 @@
 
 **Thoughts** Finally completed the C++ Lab on algorithms. Although I understand the logic I can't code the algorithms from memory. I'll work on Python stuff tomorrow.
 
+### Day 18: October 30, 2020
+
+**Today's Progress**: C++ Pointers
+
+**Thoughts** Read and watched some videos on C++ pointers and how they work. However, I still don't quite understand their usage in programs or why they would be used over references. I'll keep looking into these things.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
