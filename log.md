@@ -113,7 +113,7 @@
 
 **Thoughts** Read and watched some videos on C++ pointers and how they work. However, I still don't quite understand their usage in programs or why they would be used over references. I'll keep looking into these things.
 
-### Day 18: November 8th, 2020
+### Day 19: November 8th, 2020
 
 **Today's Progress**: C++ Pointers are hard...
 
