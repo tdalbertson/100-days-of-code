@@ -113,6 +113,12 @@
 
 **Thoughts** Read and watched some videos on C++ pointers and how they work. However, I still don't quite understand their usage in programs or why they would be used over references. I'll keep looking into these things.
 
+### Day 18: November 8th, 2020
+
+**Today's Progress**: C++ Pointers are hard...
+
+**Thoughts** I haven't been keeping up with this log since I've been studying about pointers in C++. To be honest, they're the most challenging programming concept (so far) for me to understand. Because of this, they're intimidating and I haven't gotten around to the programming assignment that requires them...
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
