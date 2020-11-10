@@ -119,6 +119,12 @@
 
 **Thoughts** I haven't been keeping up with this log since I've been studying about pointers in C++. To be honest, they're the most challenging programming concept (so far) for me to understand. Because of this, they're intimidating and I haven't gotten around to the programming assignment that requires them...
 
+### Day 20: November 9th, 2020
+
+**Today's Progress**: Python Challenges
+
+**Thoughts** Jumped back on Python today and have been completing the function practice problems for a Udemy course I am taking and went over lists again with Team Treehouse's Python Course.
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
