@@ -129,7 +129,7 @@
 
 **Today's Progress**: Python Challenges Continued
 
-**Thoughts** Continued working on the function challenges from a Udemy course I'm taking. I had to reference the solutions video for a few of them but was able to solve most of them on my own. I was even able to solve one of the challange problems in a completely different way than the solutions video!
+**Thoughts** Continued working on the function challenges from a Udemy course I'm taking. I had to reference the solutions video for a few of them but was able to solve most of them on my own. I was even able to solve one of the challenge problems in a completely different way than the solutions video!
 
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
