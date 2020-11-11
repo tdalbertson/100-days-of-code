@@ -125,6 +125,12 @@
 
 **Thoughts** Jumped back on Python today and have been completing the function practice problems for a Udemy course I am taking and went over lists again with Team Treehouse's Python Course.
 
+### Day 21: November 10th, 2020
+
+**Today's Progress**: Python Challenges Continued
+
+**Thoughts** Continued working on the function challenges from a Udemy course I'm taking. I had to reference the solutions video for a few of them but was able to solve most of them on my own. I was even able to solve one of the challange problems in a completely different way than the solutions video!
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
