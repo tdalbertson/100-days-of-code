@@ -131,6 +131,12 @@
 
 **Thoughts** Continued working on the function challenges from a Udemy course I'm taking. I had to reference the solutions video for a few of them but was able to solve most of them on my own. I was even able to solve one of the challenge problems in a completely different way than the solutions video!
 
+### Day 22: November 21th, 2020
+
+**Today's Progress**: New Experiences & Catching Up
+
+**Thoughts** I realize I haven't been keeping up on this log although I've still been studying. Aside from this, I had my first experience with a small coding challenge during an interview. Despite not thinking I did very well it was a very eye-opening experience; it really showed me how much work I have to do. However, I was able to complete the challenge afterwords and will post my solution soon!
+
 **Link(s) to work**
 1. [Check Splitter App](https://github.com/tdalbertson/check_splitter)
 2. [Python Flappy Bird](https://github.com/tdalbertson/pythonflappybird)
